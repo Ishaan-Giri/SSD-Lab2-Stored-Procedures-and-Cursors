@@ -1,8 +1,3 @@
-CS6.302 Software System Development - Lab 2: Stored Procedures and Cursors
-Name: Ishaan Giri
-Roll Number: 2025202026
-Git Repository Link: 
-
 ---Overview---
 This submission contains five SQL scripts (q1.sql to q5.sql), each creating a stored procedure as required by the lab assignment. The procedures operate on a database of TV shows, subscribers, and their watch history.
 
